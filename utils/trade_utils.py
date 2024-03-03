@@ -123,9 +123,9 @@ def buy(solana_client, token_mint, payer, amount, poolInfos=None):
     swap_tx.add(closeAcc)
 
     try:
-        # txn = solana_client.send_transaction(swap_tx, payer, new_pair)
-        # txid_string_sig = txn.value
-        # logger.info(f'buy transaction info:, https://solscan.io/tx/{txid_string_sig}')
+        txn = solana_client.send_transaction(swap_tx, payer, new_pair)
+        txid_string_sig = txn.value
+        logger.info(f'buy transaction info:, https://solscan.io/tx/{txid_string_sig}')
         return True
     except:
         logger.error('buy transaction error!!')
