@@ -40,12 +40,7 @@ git clone https://github.com/DevSolana/solana-sniper-python
 pip3 install -r requirements.txt
 ```
 
-▶️ **Start CLI**
-```sh
-python main.py
-```
-
-### Configuration explanation
+### Configuration explanation (config.ini)
 ```commandline
 private_key     private key
 is_buy          Whether to buy automatically (buy automatically (1) or not (0))
@@ -53,6 +48,11 @@ is_sell         Whether to sell automatically (sell automatically (1) or not (0)
 pool_size       Buy when the capital pool is larger than
 sol_amount      Buying amount (in solana)
 wait_seconds    How long to sell after (in ms)
+```
+
+▶️ **Start CLI**
+```sh
+python main.py
 ```
 
 # 🗨️ Q&A
