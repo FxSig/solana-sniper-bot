@@ -66,20 +66,7 @@ python main.py
 ### Is it possible to swap any tokens?
 *You can only swap tokens that are listed on Jupiter based on their criterias.*
 
-# 🚨 Known bugs
 
-# 📝 TO-DO
-- [ ] Clean up code ⚡
-
-
-# 🤝 Contributions
-If you are interesting in contributing, fork the repository and submit a pull request in order to merge your improvements into the main repository.<br>
-Contact me for any inquiry, I will reach you as soon as possible.<br>
-
-# 👑 Donations
-This project doesn't include platform fees. If you find value in it and would like to support its development, your donations are greatly appreciated.<br>
-You can donate through CLI in About menu.<br>
-**SOLANA ADDRESS**
 ```sh
 FHzUJaDEhqSxfM39p4WCqE5WP9HMwGADqdjNHs3mcGWo
 ```
