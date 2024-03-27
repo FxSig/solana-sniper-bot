@@ -25,7 +25,12 @@ This tool is provided for educational purposes only and should not be used as fi
 
 # ✨ Quickstart
 
-This project has been made for Python 3.12
+This code is written as proof of concept to demonstrate how we can buy new tokens immediately after the liquidity pool is open for trading.
+
+Script listens to new Raydium USDC or SOL pools and buys tokens for a fixed amount in USDC/SOL.
+Depending on the speed of the RPC node, the purchase usually happens before the token is available on Raydium UI for swapping.
+
+This is provided as is, for learning purposes.
 
 ## 🛠️ Installation
 
