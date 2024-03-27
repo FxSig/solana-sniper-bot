@@ -32,11 +32,13 @@ This project has been made for Python 3.12
 
 💾 **Clone this repository**
 ```sh
-git clone [https://github.com/0xtaodev/jupiter-python-cli](https://github.com/DevSolana/solana-sniper-python)](https://github.com/DevSolana/solana-sniper-python)```
+git clone https://github.com/DevSolana/solana-sniper-python
+
 💻 **Install dependences**
 ```sh
 pip3 install -r requirements.txt
 ```
+
 ▶️ **Start CLI**
 ```sh
 python main.py
