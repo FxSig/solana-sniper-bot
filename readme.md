@@ -19,10 +19,6 @@
     <br>
 </p>
 
-# ⚠️ Disclaimer
-**Please note that I'm not responsible for any loss of funds, damages, or other libailities resulting from the use of this software or any associated services.<br>
-This tool is provided for educational purposes only and should not be used as financial advice, it is still in expiremental phase so use it at your own risk.**
-
 # ✨ Quickstart
 
 This code is written as proof of concept to demonstrate how we can buy new tokens immediately after the liquidity pool is open for trading.
