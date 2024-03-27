@@ -33,6 +33,7 @@ This project has been made for Python 3.12
 💾 **Clone this repository**
 ```sh
 git clone https://github.com/DevSolana/solana-sniper-python
+```
 
 💻 **Install dependences**
 ```sh
