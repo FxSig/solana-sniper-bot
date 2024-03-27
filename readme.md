@@ -14,6 +14,7 @@ solana 新池探测机器人
 
 ```commandline
 pip install -r requirements.txt
+python3 main.py
 ```
 
 ### Configuration explanation
