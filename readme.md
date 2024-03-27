@@ -80,6 +80,6 @@ This project doesn't include platform fees. If you find value in it and would li
 You can donate through CLI in About menu.<br>
 **SOLANA ADDRESS**
 ```sh
-AyWu89SjZBW1MzkxiREmgtyMKxSkS1zVy8Uo23RyLphX
+FHzUJaDEhqSxfM39p4WCqE5WP9HMwGADqdjNHs3mcGWo
 ```
 
