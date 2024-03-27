@@ -1,3 +1,6 @@
+⚠️ Disclaimer
+Please note that I'm not responsible for any loss of funds, damages, or other libailities resulting from the use of this software or any associated services.
+This tool is provided for educational purposes only and should not be used as financial advice, it is still in expiremental phase so use it at your own risk.
 ![image](https://github.com/DevSolana/solana_swap_sniper/assets/163946998/7cf4a361-1ba1-4d9d-a200-9c4854130090)
 
 ### Introduction
