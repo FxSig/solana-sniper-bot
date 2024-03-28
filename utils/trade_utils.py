@@ -42,6 +42,7 @@ def sell(client, token_mint, payer=None, poolInfos=None):
         if mint_in_acc == str(tokenPk):
             amount_in = int(account.account.data.parsed['info']['tokenAmount']['amount'])
             logger.info("Token Balance [Lamports]: ", amount_in)
+            # error here
             break
 
     account_data = client.get_token_accounts_by_owner(payer.pubkey(), TokenAccountOpts(tokenPk))
@@ -94,6 +95,7 @@ def buy(solana_client, token_mint, payer, amount, poolInfos=None):
         pool_keys = poolInfos
     if pool_keys == "failed":
         logger.error("pool keys not found .")
+        print("pool keys not found .")
         return False
     accountProgramId = solana_client.get_account_info_json_parsed(mint)
     TOKEN_PROGRAM_ID = accountProgramId.value.owner
@@ -126,7 +128,9 @@ def buy(solana_client, token_mint, payer, amount, poolInfos=None):
         txn = solana_client.send_transaction(swap_tx, payer, new_pair)
         txid_string_sig = txn.value
         logger.info(f'buy transaction info:, https://solscan.io/tx/{txid_string_sig}')
+        print(f'Buy transaction info: https://solscan.io/tx/{txid_string_sig}')
+
         return True
     except:
-        logger.error('buy transaction error!!')
+        print('buy transaction error!!')
         return False

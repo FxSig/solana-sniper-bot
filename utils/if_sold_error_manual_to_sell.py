@@ -92,7 +92,7 @@ if __name__ == '__main__':
 
     # read private key
     config = configparser.ConfigParser()
-    config.read('../config.ini')
+    config.read('./config.ini')
     private_key_string = config['user']['private_key']
 
     private_key_bytes = base58.b58decode(private_key_string)
