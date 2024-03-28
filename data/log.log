@@ -1,0 +1,68 @@
+2024-03-27 20:57:39,185 - root - INFO - buy transaction info:, https://solscan.io/tx/62jyydZ7fymZXNB6ZuGKaVcdFkG3wBEbsUZPmcmQ5GyP2c6M4jGsTQzegPQ7MpxKJ14tvTs5J2z9udABY7XYyVp3
+2024-03-27 20:57:39,185 - root - INFO - create buy order.
+2024-03-27 20:57:39,185 - root - INFO - dex trade, https://dexscreener.com/solana/Gu5qzEAVTfCxBeF6LmKyZ2pZgKVhCtAK4UZNvuyVvpYh
+2024-03-27 20:58:09,186 - root - INFO - create sell order.
+2024-03-27 20:58:11,967 - root - ERROR - mint token not found
+2024-03-27 20:58:33,495 - root - INFO - buy transaction info:, https://solscan.io/tx/52xfh1J8vjFf5c5tpp8EczxarydCEhkCwVgTciMkwLxEnvUKqeKuodxcSGKKD9gDvE8EnrEWDKdpQyqXaBC7GpyX
+2024-03-27 20:58:33,495 - root - INFO - create buy order.
+2024-03-27 20:58:33,495 - root - INFO - dex trade, https://dexscreener.com/solana/Gu5qzEAVTfCxBeF6LmKyZ2pZgKVhCtAK4UZNvuyVvpYh
+2024-03-27 20:59:03,512 - root - INFO - create sell order.
+2024-03-27 20:59:06,338 - root - ERROR - mint token not found
+2024-03-27 20:59:41,478 - root - INFO - buy transaction info:, https://solscan.io/tx/2M4eEW5DrCsUHEacJXEbZhLr17nt6ZtVcCjZUojWwck29WkSiJ1WSErjM4E4LNbrZS8CwCP9fE7v4stcwDnzdhck
+2024-03-27 20:59:41,479 - root - INFO - create buy order.
+2024-03-27 20:59:41,479 - root - INFO - dex trade, https://dexscreener.com/solana/89ph7Z22jNGpcNd6XXUNV5tsqz17tsoAmHWvJyQsecAK
+2024-03-27 21:02:38,489 - root - INFO - buy transaction info:, https://solscan.io/tx/3PELxGrb9dPLWoDyBYruV4EaM6UCKCSEwSPxsDPHJTihqbex3NSSeedrWFbEwihRLYf3rKUCoQBiiou3GJEsuhdR
+2024-03-27 21:02:38,489 - root - INFO - create buy order.
+2024-03-27 21:02:38,489 - root - INFO - dex trade, https://dexscreener.com/solana/2xmaQVHZ1WLteAzxCQ6moCkWMq3BCgkNyKvYnNCKsoGv
+2024-03-27 21:03:08,490 - root - INFO - create sell order.
+2024-03-27 21:03:14,865 - root - ERROR - Error: [Transaction simulation failed: Error processing Instruction 1: custom program error: 0x1d]...
+Retrying...
+2024-03-27 21:04:29,069 - root - INFO - buy transaction info:, https://solscan.io/tx/38cBhNU4JWJrCfQaJWEqSPm3QfM8GXw3oauW62ZX1orq34GGZSXPBe6XR3udhKPnQYjSGWgggDNTwNi6wkt9fNcU
+2024-03-27 21:04:29,070 - root - INFO - create buy order.
+2024-03-27 21:04:29,070 - root - INFO - dex trade, https://dexscreener.com/solana/3a6yWLxEME2cxcuSMCRhjccMT3YqqomeMeG1sMV8v23o
+2024-03-27 21:04:59,071 - root - INFO - create sell order.
+2024-03-27 21:05:01,815 - root - ERROR - mint token not found
+2024-03-27 21:05:23,386 - root - INFO - buy transaction info:, https://solscan.io/tx/2uR68GFvD83taY43fmZvSP4SK6JhTt6ch3WD9yB3hQL7jV9bM1uzu8iMkz37ZzBPfteAvBxMHtUGYJ1swRR6GxjV
+2024-03-27 21:05:23,386 - root - INFO - create buy order.
+2024-03-27 21:05:23,386 - root - INFO - dex trade, https://dexscreener.com/solana/3a6yWLxEME2cxcuSMCRhjccMT3YqqomeMeG1sMV8v23o
+2024-03-27 21:05:53,387 - root - INFO - create sell order.
+2024-03-27 21:05:59,693 - root - INFO - sell transaction info: https://solscan.io/tx/3Uj8GX3yVE1jRdZQuabgcEDEei6FpChy3qNtVyjtckDSFELwuktLq8NCJSs8JN5uR9EfXG5hGGD6kDDxZQ4HrmCS
+2024-03-27 21:14:48,719 - root - INFO - buy transaction info:, https://solscan.io/tx/3KMGM6KfKgkAWaLB2Ytckpxp499PbxXFXiDZEiuTUHiBcJPVtjwf8EBAVgPoxounNvSqXFNxnEyuZ5bgEqSqC2cT
+2024-03-27 21:14:48,720 - root - INFO - create buy order.
+2024-03-27 21:14:48,720 - root - INFO - dex trade, https://dexscreener.com/solana/CdXhAPWj9EXubkhsQZkwLMVszyUTGTGuBXQFuR41yBA
+2024-03-27 21:15:18,721 - root - INFO - create sell order.
+2024-03-27 21:15:21,561 - root - ERROR - mint token not found
+2024-03-27 21:15:43,111 - root - INFO - buy transaction info:, https://solscan.io/tx/2Cr93x1bAePSsJcmtYKxHHo48CqorJojaatKeTPW1xpLhL7yAkYqp2L3D1zxqgUEGCbWppsRrSXsWNrWpHyb6Q2h
+2024-03-27 21:15:43,111 - root - INFO - create buy order.
+2024-03-27 21:15:43,111 - root - INFO - dex trade, https://dexscreener.com/solana/CdXhAPWj9EXubkhsQZkwLMVszyUTGTGuBXQFuR41yBA
+2024-03-27 21:16:13,112 - root - INFO - create sell order.
+2024-03-27 21:16:15,877 - root - ERROR - mint token not found
+2024-03-27 21:17:30,655 - root - ERROR - buy transaction error!!
+2024-03-27 21:17:30,655 - root - INFO - create buy order.
+2024-03-27 21:17:30,656 - root - INFO - dex trade, https://dexscreener.com/solana/FMxWStSgXHAEd6SFdwatqp6oRgEryGSt1Q69rqDh7Ep5
+2024-03-27 21:17:30,656 - root - INFO - switch buy is off
+2024-03-27 21:18:07,633 - root - ERROR - buy transaction error!!
+2024-03-27 21:18:07,634 - root - INFO - create buy order.
+2024-03-27 21:18:07,634 - root - INFO - dex trade, https://dexscreener.com/solana/Fc6aHzjeRLF48bjQ5yTZMGGdeAfHHi9i4jTE3xQaLra7
+2024-03-27 21:18:07,634 - root - INFO - switch buy is off
+2024-03-27 21:18:20,549 - root - ERROR - buy transaction error!!
+2024-03-27 21:18:20,549 - root - INFO - create buy order.
+2024-03-27 21:18:20,549 - root - INFO - dex trade, https://dexscreener.com/solana/Fc6aHzjeRLF48bjQ5yTZMGGdeAfHHi9i4jTE3xQaLra7
+2024-03-27 21:18:20,549 - root - INFO - switch buy is off
+2024-03-27 21:18:34,008 - root - ERROR - buy transaction error!!
+2024-03-27 21:18:34,008 - root - INFO - create buy order.
+2024-03-27 21:18:34,008 - root - INFO - dex trade, https://dexscreener.com/solana/DeBnYmhPnvsST54MscR3tf3qJKavKLK41SK7qVDt1tBr
+2024-03-27 21:18:34,008 - root - INFO - switch buy is off
+2024-03-27 21:32:31,691 - root - ERROR - mint token not found
+2024-03-28 06:17:34,268 - root - ERROR - buy transaction error!!
+2024-03-28 06:17:34,269 - root - INFO - create buy order.
+2024-03-28 06:17:34,270 - root - INFO - dex trade, https://dexscreener.com/solana/783V7odS8oVhFK9UDApCGiA4yNsnAFyihMAjQUxmMaYM
+2024-03-28 06:17:34,270 - root - INFO - switch buy is off
+2024-03-28 06:17:47,188 - root - ERROR - buy transaction error!!
+2024-03-28 06:17:47,188 - root - INFO - create buy order.
+2024-03-28 06:17:47,188 - root - INFO - dex trade, https://dexscreener.com/solana/783V7odS8oVhFK9UDApCGiA4yNsnAFyihMAjQUxmMaYM
+2024-03-28 06:17:47,188 - root - INFO - switch buy is off
+2024-03-28 06:18:01,356 - root - ERROR - buy transaction error!!
+2024-03-28 06:18:01,356 - root - INFO - create buy order.
+2024-03-28 06:18:01,356 - root - INFO - dex trade, https://dexscreener.com/solana/783V7odS8oVhFK9UDApCGiA4yNsnAFyihMAjQUxmMaYM
+2024-03-28 06:18:01,356 - root - INFO - switch buy is off
