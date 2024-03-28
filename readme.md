@@ -32,7 +32,7 @@ This is provided as is, for learning purposes.
 
 💾 **Clone this repository**
 ```sh
-git clone https://github.com/DevSolana/solana-sniper-python
+git clone https://github.com/adharna/solana-sniper-bot
 cd solana-sniper-python/
 ```
 
