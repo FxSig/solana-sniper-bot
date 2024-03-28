@@ -8,14 +8,14 @@
 ---
 
 <p align="center">
-    <img src="https://img.shields.io/github/stars/adharna/solana-sniper-python">
-    <img src="https://img.shields.io/github/forks/adharna/solana-sniper-python">
+    <img src="https://img.shields.io/github/stars/adharna/solana-sniper-bot">
+    <img src="https://img.shields.io/github/forks/adharna/solana-sniper-bot">
     <br>
-    <img src="https://img.shields.io/github/issues/adharna/solana-sniper-python">
-    <img src="https://img.shields.io/github/issues-closed/adharna/solana-sniper-python">
+    <img src="https://img.shields.io/github/issues/adharna/solana-sniper-bot">
+    <img src="https://img.shields.io/github/issues-closed/adharna/solana-sniper-bot">
     <br>
-    <img src="https://img.shields.io/github/languages/top/adharna/solana-sniper-python">
-    <img src="https://img.shields.io/github/last-commit/adharna/solana-sniper-python">
+    <img src="https://img.shields.io/github/languages/top/adharna/solana-sniper-bot">
+    <img src="https://img.shields.io/github/last-commit/adharna/solana-sniper-bot">
     <br>
 </p>
 
