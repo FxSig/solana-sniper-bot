@@ -49,6 +49,8 @@ is_sell         Whether to sell automatically (sell automatically (1) or not (0)
 pool_size       Buy when the capital pool is larger than
 sol_amount      Buying amount (in solana)
 wait_seconds    How long to sell after (in ms)
+main_url        RPC URL     / I used helius for development
+wss_url         RPC wss URL / I used helius for development
 ```
 
 ▶️ **Start CLI**
@@ -69,6 +71,7 @@ python main.py
 
 ### TODO
 
+- Add Alt RPC (backup)
 - Add JUPITER, ORCA, METEORA, FLUXBEAN liquidity pool
 - Add rug check, burn and lock check
 - Add profit/stop loss function
