@@ -72,3 +72,4 @@ python main.py
 - Add JUPITER, ORCA, METEORA, FLUXBEAN liquidity pool
 - Add rug check, burn and lock check
 - Add profit/stop loss function
+- Add ONE_TOKEN_AT_A_TIME
