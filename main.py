@@ -2,11 +2,12 @@ import configparser
 import json
 import os
 import time
-from time import sleep
 import asyncio
-from typing import List, AsyncIterator, Tuple
-
 import base58
+import logging
+
+from time import sleep
+from typing import List, AsyncIterator, Tuple
 from asyncstdlib import enumerate
 from solders.keypair import Keypair
 from solders.pubkey import Pubkey
@@ -21,10 +22,7 @@ from solana.rpc.commitment import Commitment
 from solana.rpc.websocket_api import SolanaWsClientProtocol
 from solders.rpc.responses import RpcLogsResponse, SubscriptionResult, LogsNotification
 from solders.signature import Signature
-
 from utils.layout import SPL_MINT_LAYOUT, MARKET_STATE_LAYOUT_V3
-
-import logging
 
 
 async def main():
@@ -69,7 +67,7 @@ async def process_messages(websocket: SolanaWsClientProtocol,
     async for idx, msg in enumerate(websocket):
         value = get_msg_value(msg)
         if not idx % 100:
-            print(f'idx: {idx}')
+            print(f'Scanning Raydium: {idx}')
             pass
         for log in value.logs:
             if instruction not in log:
@@ -93,8 +91,8 @@ def get_tokens(signature: Signature, raydium_lp_v4: Pubkey) -> None:
     for instruction in filtred_instuctions:
         tokens = get_tokens_info(instruction)
         print_table(tokens)
-        print(f"dex trade, https://dexscreener.com/solana/{str(tokens[0])}")
-        print(f"signature info, https://solscan.io/tx/{signature}")
+        print(f"DexScreener : https://dexscreener.com/solana/{str(tokens[0])}\n")
+        # print(f"signature info, https://solscan.io/tx/{signature}")
         get_pool_infos(tokens[3])
         break
 
@@ -184,6 +182,7 @@ def get_pool_infos(accounts):
             private_key_bytes = base58.b58decode(private_key_string)
             payer = Keypair.from_bytes(private_key_bytes)
             token_address = str(accounts[8])
+            print('START BUY ORDER')
             buy_flag = buy(solana_client, token_address, payer, float(sol_amount), poolInfos)
             logging.info('create buy order.')
             logging.info(f"dex trade, https://dexscreener.com/solana/{token_address}")
