@@ -33,7 +33,7 @@ This is provided as is, for learning purposes.
 💾 **Clone this repository**
 ```sh
 git clone https://github.com/adharna/solana-sniper-bot
-cd solana-sniper-python/
+cd solana-sniper-bot/
 ```
 
 💻 **Install dependences**
