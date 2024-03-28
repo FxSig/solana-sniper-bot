@@ -67,7 +67,8 @@ python main.py
 *You can only swap tokens that are listed on Jupiter based on their criterias.*
 
 
-```sh
-FHzUJaDEhqSxfM39p4WCqE5WP9HMwGADqdjNHs3mcGWo
-```
+### TODO
 
+- Add JUPITER, ORCA, METEORA, FLUXBEAN liquidity pool
+- Add rug check, burn and lock check
+- Add profit/stop loss function
