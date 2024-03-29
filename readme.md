@@ -2,7 +2,7 @@
     <h1>📟 SOLANA SNIPER BOT IN PYTHON 🪐</h1>
 <img src="https://github.com/adharna/solana-sniper-bot/blob/main/Animation.gif?raw=true">
 </div>
-<p align="center">Run Solana Sniper Bot on Google Colab
+<p align="center">
 <a href="https://colab.research.google.com/github/adharna/solana-sniper-bot/blob/main/Solana_Sniper_Bot.ipynb" target="_parent"><img align="right" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a></p>
 ---
 
