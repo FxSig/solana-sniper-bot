@@ -3,12 +3,12 @@
 <img src="https://github.com/adharna/solana-sniper-bot/blob/main/Animation.gif?raw=true">
 </div>
 <p align="center">
-<a href="https://colab.research.google.com/github/adharna/solana-sniper-bot/blob/main/Solana_Sniper_Bot.ipynb" target="_parent"><img align="right" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a></p>
 
 <p align="center">
     <img src="https://img.shields.io/github/stars/adharna/solana-sniper-bot">
     <img src="https://img.shields.io/github/forks/adharna/solana-sniper-bot">
     <img src="https://img.shields.io/github/last-commit/adharna/solana-sniper-bot">
+    <a href="https://colab.research.google.com/github/adharna/solana-sniper-bot/blob/main/Solana_Sniper_Bot.ipynb" target="_parent"><img align="right" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
     <br>
 </p>
 
