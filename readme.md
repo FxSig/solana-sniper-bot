@@ -8,7 +8,6 @@
 <p align="center">
     <img src="https://img.shields.io/github/stars/adharna/solana-sniper-bot">
     <img src="https://img.shields.io/github/forks/adharna/solana-sniper-bot">
-    <br>
     <img src="https://img.shields.io/github/last-commit/adharna/solana-sniper-bot">
     <br>
 </p>
