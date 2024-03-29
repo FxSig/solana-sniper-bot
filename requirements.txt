@@ -27,4 +27,3 @@ types-cachetools==4.2.10
 typing_extensions==4.10.0
 urllib3==2.2.1
 websockets==11.0.3
-zipp==3.17.0
